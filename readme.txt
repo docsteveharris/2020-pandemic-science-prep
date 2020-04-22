@@ -1,0 +1,28 @@
+editorial arguing that the pandemic response by the clinical academic community has been poor and ineffective
+
+- not a time for fancy science, boots on the ground
+	- and top down / public health style intervention approaches
+	- ?can you find an example of when a disease was properly tackled
+		- ??
+	- these things can be answered quickly
+		- simulation to show numbers needed considering the typical hospital LOS
+- without evidence
+	- drugs cause harm: cite the SARS steroids and ribavirin articles
+- not just about drugs, intensive care: a complex intervention
+	- the processes are super important: wit the decision to build Nightingale
+		- two key delivery issues
+			- ventilators: depends on the early vs late IMV qn
+			- fluid management: current shortage of RRT
+		- bigger question: switching off acute medical services?
+			- nonCOVID harm
+- general trial points
+	- late endpoints: 30-90d
+		- remap-cap modifying primary endpoint
+	- slow recruitment: remap-cap 227
+- specific trials
+	- recovery-support
+		- london hospitals not recruiting
+		- not appropriate design wrt to endpoints
+	- remap-cap
+		- https://clinicaltrials.gov/ct2/show/NCT02735707
+		- complicated; slow but the right approach; needs to be mandated but with simpler more agile data collection
